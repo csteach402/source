@@ -4,3 +4,5 @@ This directory includes sample SQL for the 402framework project.
 
 #### Contents
 * week 4
+* week 9
+
