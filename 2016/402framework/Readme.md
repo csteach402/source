@@ -9,3 +9,5 @@ This directory includes weekly source code for the 402framework project.
 * v0.3
 * v0.4
 * v0.5
+* v0.6
+
