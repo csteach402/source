@@ -1,6 +1,6 @@
 ### Readme - Source - 2016 - 402framework
 
-This directory includes weekly source code for the 402framework project.
+This directory includes weekly source code for the 402framework project, Spring 2016.
 
 #### Contents
 * sql
