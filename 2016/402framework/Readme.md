@@ -10,4 +10,6 @@ This directory includes weekly source code for the 402framework project, Spring 
 * v0.4
 * v0.5
 * v0.6
-
+* v0.7
+* v0.8
+* v0.8-tabs
